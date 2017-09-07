@@ -1,0 +1,18 @@
+
+header {
+    display: block;
+        background-color:black;
+    color:white;
+    width:100%;
+}
+
+.hero-image {
+    
+    background-image: url(../assets/moto.jpeg);
+    background-size: cover;
+    height:25em;
+}
+
+div {
+    display: block;
+}
